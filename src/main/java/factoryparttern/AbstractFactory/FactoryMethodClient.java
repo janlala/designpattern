@@ -8,3 +8,5 @@ public class FactoryMethodClient {
         Fridge greeFridge = greeFactory.produceFridge();
     }
 }
+
+
